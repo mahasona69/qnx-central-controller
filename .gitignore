@@ -1,0 +1,8 @@
+.metadata/
+VM_x86_Target*/
+build/
+Debug/
+Release/
+*.o
+*.d
+*.log
